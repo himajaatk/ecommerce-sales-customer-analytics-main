@@ -101,7 +101,7 @@ The cleaned data was loaded into MySQL (`ecommerce_analysis` database, `sales` t
 - Which products perform best in each country?
 - What is the cancellation rate?
 
-![SQL Business KPIs](screenshots/sql/03_overall_business_kpis.png)
+![SQL Business KPIs](ecommerce-sales-customer-analytics-main/screenshots/python/06_business_kpis.png)
 
 ---
 
