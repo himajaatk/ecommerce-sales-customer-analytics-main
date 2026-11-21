@@ -260,6 +260,7 @@ This project shows a complete analytics workflow: cleaning 536,641 transactions 
 ## 👨‍💻 Author
 
 **Bheemireddy Himaja**
+
 MCA — Data Analyst
 
 📧 bheemireddy.himaja05@gmail.com
