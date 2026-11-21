@@ -81,7 +81,7 @@ Raw Data → Python (cleaning + EDA) → MySQL → SQL Analysis → Power BI Das
 
 EDA covered missing and duplicate values, product, customer and country analysis, monthly sales trends, and cancelled transactions.
 
-![Monthly Revenue Trend](ecommerce-sales-customer-analytics-main/screenshots/python/10_top_customers_by_revenue.png)
+![Monthly Revenue Trend](screenshots/python/07_monthly_revenue_trend.png)
 
 ---
 
@@ -259,8 +259,7 @@ This project shows a complete analytics workflow: cleaning 536,641 transactions 
 
 ## 👨‍💻 Author
 
-**Durgampudi S V Krishna Reddy**
+**Bheemireddy Himaja**
 MCA — Data Analyst
 
-📧 reddydsvkrishna@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/sv181002) | [GitHub](https://github.com/SV-181002)
+📧 bheemireddy.himaja05@gmail.com
