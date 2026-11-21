@@ -137,11 +137,11 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders])
 
 **Page 2: Product & Country Analysis** — top products, countries and customers, with country and date filters
 
-![Product and Country Analysis]()
+![Product and Country Analysis](ecommerce-sales-customer-analytics-main/screenshots/powerbi/product_country_analysis.png)
 
 **Page 3: Customer Analysis** — revenue distribution, order frequency and orders vs revenue
 
-![Customer Analysis](screenshots/powerbi/Customer_Analysis.png)
+![Customer Analysis]()
 
 **Page 4: Business Insights & Recommendations**
 
