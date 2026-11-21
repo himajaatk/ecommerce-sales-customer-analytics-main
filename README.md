@@ -2,7 +2,7 @@
 
 End-to-end data analytics project that turns raw e-commerce transaction data into business insights using **Python, MySQL, SQL and Power BI**.
 
-![Executive Overview Dashboard](screenshots/powerbi/executive_overview.png)
+![Executive Overview Dashboard](ecommerce-sales-customer-analytics-main/screenshots/powerbi/executive_overview.png)
 
 **Key results**
 - Cleaned and analyzed **536,641 transaction records** across **4,339 identified customers**, **4,059 products** and **38 countries**
@@ -81,7 +81,7 @@ Raw Data → Python (cleaning + EDA) → MySQL → SQL Analysis → Power BI Das
 
 EDA covered missing and duplicate values, product, customer and country analysis, monthly sales trends, and cancelled transactions.
 
-![Monthly Revenue Trend](screenshots/python/07_monthly_revenue_trend.png)
+![Monthly Revenue Trend]()
 
 ---
 
