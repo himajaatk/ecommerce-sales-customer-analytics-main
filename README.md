@@ -145,7 +145,7 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders])
 
 **Page 4: Business Insights & Recommendations**
 
-![Business Insights]()
+![Business Insights](ecommerce-sales-customer-analytics-main/screenshots/powerbi/business_insights.png)
 
 ---
 
