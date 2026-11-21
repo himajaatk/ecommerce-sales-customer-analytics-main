@@ -81,7 +81,7 @@ Raw Data → Python (cleaning + EDA) → MySQL → SQL Analysis → Power BI Das
 
 EDA covered missing and duplicate values, product, customer and country analysis, monthly sales trends, and cancelled transactions.
 
-![Monthly Revenue Trend](screenshots/python/07_monthly_revenue_trend.png)
+![Monthly Revenue Trend](ecommerce-sales-customer-analytics-main/screenshots/python/10_top_customers_by_revenue.png)
 
 ---
 
