@@ -141,11 +141,11 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders])
 
 **Page 3: Customer Analysis** — revenue distribution, order frequency and orders vs revenue
 
-![Customer Analysis]()
+![Customer Analysis](ecommerce-sales-customer-analytics-main/screenshots/powerbi/Customer_Analysis.png)
 
 **Page 4: Business Insights & Recommendations**
 
-![Business Insights](screenshots/powerbi/business_insights.png)
+![Business Insights]()
 
 ---
 
